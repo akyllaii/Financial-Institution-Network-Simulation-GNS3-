@@ -56,7 +56,7 @@ Before importing the project, make sure you have:
 * GNS3 VM (recommended)
 ### Clone the repository
 ```
-git clone https://github.com/<your-username>/financial-network-gns3.git
+git clone https://github.com/akyllaii/Financial-Institution-Network-Simulation-GNS3-.git
 cd financial-network-gns3
 ```
 ### Import the topology
